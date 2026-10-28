@@ -31,7 +31,7 @@ import {
   validateProfileImage,
 } from './validations.js';
 
-const LOGO = '/logo-uleam-sistema-v6.png';
+const LOGO = '/logo-uleam-sistema.png';
 const emptyEquipment = {
   id: '', serial: '', category: categories[0], brand: '', model: '', processor: '',
   ram: '', storage: '', status: 'Disponible', location: '', responsible: '',
