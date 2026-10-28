@@ -88,7 +88,7 @@ function Login({ onLogin, notify }) {
       <div className="login-hero">
         <img src={LOGO} alt="Logo ULEAM" className="login-logo" />
         <h1>ULEAM</h1>
-        <p>Informáticos</p>
+        <p>Sistema de Gestión de Inventario de Equipos Informáticos</p>
         <ul><li>Registro y control de equipos</li><li>Responsables, mantenimiento y estados</li><li>Reportes Excel y PDF</li></ul>
       </div>
       <form className="login-card" onSubmit={submit} noValidate>
